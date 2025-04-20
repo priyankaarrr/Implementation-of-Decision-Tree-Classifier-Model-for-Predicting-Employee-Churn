@@ -36,6 +36,9 @@ data["left"].value_counts()
 from sklearn.preprocessing import LabelEncoder
 le=LabelEncoder()
 ```
+```
+data.head()
+```
 ## output
 
 ![image](https://github.com/user-attachments/assets/d64ea521-f773-4ea3-b764-1f8473e702d1)
@@ -97,5 +100,3 @@ Thus the program to implement the Decision Tree Classifier Model for Predicting 
 
 
 
-## Result:
-Thus the program to implement the  Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
